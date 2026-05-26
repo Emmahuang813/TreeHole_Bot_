@@ -5,7 +5,7 @@ from groq import Groq
 # ==========================================
 # 1. 請在此處填入你剛剛申請的 Groq API Key 🔑
 # ==========================================
-API_KEY = "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"
+API_KEY = "請在此處填入妳自己的 Groq API Key"
 
 # 初始化 Groq 客戶端
 client = Groq(api_key=API_KEY)
